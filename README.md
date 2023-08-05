@@ -2,9 +2,6 @@
 <h4>👨‍💻 I am a Software Developer who works in Back-End Development, Machine Learning and Computer Vision fields.</h4>
 <h4>⚡ I am a very curious person and I enjoy it when I develop myself in different areas such as Back-End, AI, Cloud and Autonomous Systems. This is my characteristic feature that I always try to be different in the development field. It is a great passion to me when creating services and lead it for any kind of problem, and also I believe awesome solutions can be created by mixing software, AI and cloud.</h4>
 
-- 🖥️ My portfolio [egemengulpinar.com](egemengulpinar.com)
-- 📫 How to reach me **egemengulpinar@outlook.com**
-
 
 
 <h4 align="left">Languages</h4>
