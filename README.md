@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Egemen!</h1>
-<h4>👨‍💻 I am a Software Developer who works in Back-End Development, Machine Learning and Computer Vision fields.</h4>
-<h4>⚡ I am a very curious person and I enjoy it when I develop myself in different areas such as Back-End, AI, Cloud and Autonomous Systems. This is my characteristic feature that I always try to be different in the development field. It is a great passion to me when creating services and lead it for any kind of problem, and also I believe awesome solutions can be created by mixing software, AI and cloud.</h4>
+
+<h4>👨‍💻 I am an AI Solutions Architect at LIVAD Technologies and a Master's student in Intelligent Interactive Systems at Bielefeld University.</h4>
+
+<h4>⚡ My expertise includes leading AI-driven initiatives, designing scalable
+backend systems, developing real-time applications, and automating
+complex processes to improve efficiency and performance.
+Throughout my career, I’ve set up AI/ML pipelines, implemented
+cloud-based architectures, and delivered cutting-edge applications
+for desktop, cloud, and web platforms. I excel at turning complex
+ideas into actionable solutions, leveraging the latest technologies to
+drive business value and innovation.
+What sets me apart is my ability to think creatively while solving
+problems, blending technical expertise with a fresh perspective
+to craft unique and impactful solutions. My philosophy is simple:
+embrace innovation, challenge the ordinary, and always aim to "be
+different."
+I’m passionate about pushing boundaries and creating technology
+that not only works but also inspires.</h4>
+
 
 
 
